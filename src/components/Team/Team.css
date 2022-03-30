@@ -1,3 +1,13 @@
 .carousel-wrapper{
     margin: auto;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.our-team{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 350%;
 }
