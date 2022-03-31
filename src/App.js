@@ -9,7 +9,7 @@ function App() {
   return (
     <>
 			<Header />
-			<Events />
+			<Events />	
 			<Team />
 			<Contact />
 			<Footer />
